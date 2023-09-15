@@ -13,3 +13,6 @@ Real-time Event Updates: The website provides live event updates, ensuring that 
 Event Schedule: Display a clear and organized schedule of events, including start times, descriptions, and speakers or performers.
 Interactive Event Pages: Each event has its dedicated page with detailed information, interactive elements like RSVP, live chat, and Q&A.
 Media Integration: Easily embed livestreams, videos, and multimedia content to enhance the event experience.
+User Registration: Allow users to register and create profiles, making it easier for them to access events and receive personalized recommendations.
+Notifications: Keep users informed about upcoming events, reminders, and important announcements through email or push notifications.
+Archive: Archive past events for future reference and allow users to access recorded content.
