@@ -11,3 +11,5 @@ Features:
 
 Real-time Event Updates: The website provides live event updates, ensuring that your audience stays up to date with the latest information.
 Event Schedule: Display a clear and organized schedule of events, including start times, descriptions, and speakers or performers.
+Interactive Event Pages: Each event has its dedicated page with detailed information, interactive elements like RSVP, live chat, and Q&A.
+Media Integration: Easily embed livestreams, videos, and multimedia content to enhance the event experience.
