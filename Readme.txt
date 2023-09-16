@@ -37,3 +37,10 @@ Deploy the website to your preferred hosting platform.
 
 Contributing:
 We welcome contributions from the community to make this Event Stream Website even better. If you'd like to contribute, please follow our Contribution Guidelines.
+
+License:
+This project is licensed under the MIT License.
+
+Authors:
+
+[DevOluwapelumi]
