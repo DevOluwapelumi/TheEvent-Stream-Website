@@ -16,3 +16,12 @@ Media Integration: Easily embed livestreams, videos, and multimedia content to e
 User Registration: Allow users to register and create profiles, making it easier for them to access events and receive personalized recommendations.
 Notifications: Keep users informed about upcoming events, reminders, and important announcements through email or push notifications.
 Archive: Archive past events for future reference and allow users to access recorded content.
+
+Tech Stack:
+
+Frontend: HTML5, CSS3, JavaScript (React, Vue.js, or Angular)
+Backend: Node.js, Python, or Ruby on Rails
+Database: MySQL, PostgreSQL, or MongoDB
+Real-time Updates: WebSockets or Server-Sent Events (SSE)
+Authentication: OAuth2 or JWT for secure user authentication
+Deployment: Docker containers and cloud hosting (e.g., AWS, Azure, or Heroku)
