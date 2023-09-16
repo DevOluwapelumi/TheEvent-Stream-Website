@@ -34,3 +34,6 @@ Configure your database and set up environment variables.
 Run the development server.
 Customize the website to fit your event's branding and content.
 Deploy the website to your preferred hosting platform.
+
+Contributing:
+We welcome contributions from the community to make this Event Stream Website even better. If you'd like to contribute, please follow our Contribution Guidelines.
